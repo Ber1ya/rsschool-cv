@@ -1,4 +1,4 @@
-.main {
+.block {
     max-width: 1920px;
     margin: auto;
 }
@@ -85,7 +85,7 @@ h3 {
 
 .position {
     margin-right: 5px;
-    margin-bottom: 18,5px;
+    margin-bottom: 18px;
     height: 25px;
     width: 25px;
 }
