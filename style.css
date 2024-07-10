@@ -17,6 +17,15 @@ a {
     text-decoration: none;
 }
 
+.introductory,
+.contacts,
+.email,
+.git,
+.ds {
+        display: inline;
+        display: flex;
+}
+
 body {
     margin: 0%;
 }
@@ -27,11 +36,6 @@ body {
     border-radius: 150px;
     margin-left: 475px;
     margin-top: 40px;
-}
-
-.introductory {
-    display: inline-block;
-    display: flex;
 }
 
 .intro {
@@ -80,27 +84,9 @@ h3 {
     width: 25px;
 }
 
-.contacts {
-    display: inline;
-    display: flex;
-}
-
-.email {
-    display: inline;
-    display: flex;
-}
-
-.git {
-    display: inline;
-    display: flex;
-}
-
-.ds {
-    display: inline;
-    display: flex;
-}
-
-.first-info {
+.first-info,
+.second-info,
+.third-info {
     display: flex;
 }
 
@@ -143,19 +129,7 @@ h3 {
     background-color: rgb(147, 88, 40);
 }
 
-.second-info {
-    display: flex;
-}
-
-.skills {
-    margin-left: 280px;
-    margin-right: 50px;
-}
-
-.third-info {
-    display: flex;
-}
-
+.skills,
 .courses {
     margin-left: 280px;
     margin-right: 50px;
@@ -164,7 +138,6 @@ h3 {
 h2 {
     color: rgb(146, 188, 28);
 }
-
 
 .hoodbar {
     font-size: 32px;
