@@ -1,6 +1,5 @@
 body {
     margin: auto;
-    width: 1920px;
 }
 
 /* Страница 1 */
@@ -13,7 +12,6 @@ body {
 }
 
 .back {
-    width: 1920px;
     background:url(/rsschool-cv/shelter/assets/noise_transparent.png), radial-gradient(100% 215.42% at 0% 0%, #5B483A 0%, #262425 100%), #211F20;
 }
 
@@ -145,7 +143,7 @@ nav {
     transition: 1s;
 }
 
-.slsl {
+.ggpt {
     font-family: Georgia;
     font-size: 17px;
     font-weight: 400;
