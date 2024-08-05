@@ -1,0 +1,191 @@
+.block {
+    max-width: 1920px;
+    margin: auto;
+}
+
+.navbar {
+    padding-left: 1120px;
+    display: flex;
+    font-size: 32px;
+    text-align: right;
+    background-color: rgb(223, 187, 97);
+}
+
+.line {
+    padding-left: 25px;
+    display: inline-block;
+    font-size: 22px;
+}
+
+a {
+    text-decoration: none;
+}
+
+.introductory,
+.contacts,
+.email,
+.git,
+.ds {
+        display: inline;
+        display: flex;
+        list-style-type: none;
+}
+
+body {
+    margin: 0;
+}
+
+.photo {
+    width: 250px;
+    height: 250px;
+    margin-left: 475px;
+    margin-top: 40px;
+    border-radius: 150px;
+}
+
+.intro {
+    margin-left: 430px;
+    margin-top: 70px;
+}
+
+h1 {
+    margin-bottom: 5px;
+    text-align: center;
+    color: rgb(110, 162, 64);
+}
+
+h2 {
+    margin-bottom: 5px;
+}
+
+h3 {
+    margin-top: 5px;
+}
+
+.color {
+    text-align: center;
+    color: rgb(135, 169, 88);
+}
+
+#liner1 {
+    height: 2px;
+    width: 120px;
+    margin-bottom: 30px;
+    margin-top: 5px;
+    background-color: rgb(147, 88, 40);
+}
+
+#liner2 {
+    height: 15px;
+    width: 80%;
+    margin-top: 25px;
+    margin-left: 250px;
+    background-color: #b9b1b1;
+}
+
+.position {
+    margin-right: 5px;
+    margin-bottom: 18px;
+    height: 25px;
+    width: 25px;
+}
+
+.first-info,
+.second-info,
+.third-info,
+.stroke {
+    display: flex;
+}
+
+.contact {
+    margin-left: 280px;
+    margin-right: 50px;
+}
+
+.summary {
+    margin-right: 10px;
+    padding-right: 250px;
+}
+
+.sum {
+    font-size:25px;
+    margin-bottom: 40px;
+}
+
+.liner3 {
+    height: 1px;
+    width: 700px;
+    margin-bottom: 0px;
+    margin-top: 0px;
+    background-color: rgb(147, 88, 40);
+}
+
+#liner4 {
+    height: 1px;
+    width: 700px;
+    margin-bottom: 0;
+    margin-top: 60px;
+    background-color: rgb(147, 88, 40);
+}
+
+#liner5 {
+    height: 1px;
+    width: 700px;
+    margin-bottom: 0;
+    margin-top: 34px;
+    background-color: rgb(147, 88, 40);
+}
+
+.skills,
+.courses {
+    margin-left: 280px;
+    margin-right: 50px;
+}
+
+h2 {
+    color: rgb(146, 188, 28);
+}
+
+.hoodbar {
+    padding-left: 270px;
+    display: flex;
+    text-align: right;
+    font-size: 32px;
+    background-color: rgb(223, 187, 97);
+}
+
+.lin {
+    padding-left: 25px;
+    font-size: 25px;
+    display: inline-block;
+    color: black;
+}
+
+#fans {
+    margin-top: 50px;
+    color: white;
+}
+
+.logo {
+    width: 140px;
+    height: 80px;
+    margin-top: 10px;
+    margin-left: 400px;
+}
+
+.liner6 {
+    height: 1px;
+    width: 700px;
+    margin-top: 98px;
+    background-color: rgb(147, 88, 40);
+}
+
+.licon {
+    font-size: 20px;
+}
+
+.ref {
+    margin-left: 470px;
+    list-style-type: none;
+    color: black;
+}
